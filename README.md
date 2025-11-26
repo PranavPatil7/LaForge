@@ -140,27 +140,5 @@ laforge example <model>
   - [ ] Remote Includes
   
 
-
-## Hall of Fame
-
-mentors, contributors, and great friends of Laforge
-
-- @1njecti0n
-- @emperorcow
-- @vyrus001
-- @bstax
-- @cmbits
-- @tomk
-- @brianc
-- @rossja
-- @kos
-- @dcam
-- @davehughes
-- @mbm
-- @maus
-- @javuto
-
-## Acknowledgements
-
 - [National CPTC](https://nationalcptc.org) and the CPTC Advisory Board who's been so patient with me as I worked through this.
 - [Rochester Institute of Technology](https://www.rit.edu) For giving us a place to expiriment and advance both the technology as well as the workforce of our industry.
